@@ -9,7 +9,7 @@ Last summer I had the chance to intern at **KPMG Portugal** as a Technology Inte
 ## 🛠️ What I work with
 
 - **Languages:** Python, SQL, HTML, CSS
-- **Tools & Platforms:** Appian, Linux, Git, InsightMaker
+- **Tools & Platforms:** Appian, Linux, GitHub, InsightMaker
 - **Areas:** Machine Learning, AI, Networking, Data Analysis
 
 ---
