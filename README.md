@@ -41,4 +41,4 @@ I learn by doing, so I'm always working on something new:
 ## 📬 Let's connect
 
 I'm always open to interesting conversations, collaborations, or opportunities.  
-Find me on [https://www.linkedin.com/in/miguel-veloso-91355b372/) or just explore my repos below 👇
+Find me on  [LinkedIn](https://www.linkedin.com/in/miguel-veloso-91355b372/) or just explore my repos below 👇
